@@ -12,7 +12,7 @@ A classic Snake game implementation using vanilla JavaScript, HTML5, and CSS3.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/Parnava-Ghosh/snake-game.git
 cd snake-game
 ```
 
