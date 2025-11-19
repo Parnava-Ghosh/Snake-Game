@@ -50,5 +50,5 @@ snake-game/
 
 ## Author
 
-Your Name - [Parnava-Ghosh](https://github.com/Parnava-Ghosh)
+I'm - [Parnava-Ghosh](https://github.com/Parnava-Ghosh)
 
