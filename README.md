@@ -2,6 +2,8 @@
 
 A classic Snake game implementation using vanilla JavaScript, HTML5, and CSS3.
 
+Live Link:- https://parnava-ghosh.github.io/Snake-Game/
+
 ## Features
 
 - Keyboard controls (arrow keys)
